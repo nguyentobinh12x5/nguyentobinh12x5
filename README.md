@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nguyentobinh12x5. Currently, I'm Junior Student pursuiring Electronic Commerce Bachelor at UEH University. 
 - 👀 I’m interested in Business and Technology
-- 🌱 I’m currently learning to become Fullstack Developer & SWE 
+- 🌱 I’m currently learning to become Fullstack Developer & SWE
+- 🌱 Techonology: HTML, CSS, Javascript, C#
 - 💞️ I’m looking to collaborate on building tech project and learning together
 - 📫 Contact: nguyentobinh12@gmail.com 
 - 😄 You can call me Jerome 
