@@ -7,16 +7,25 @@ Currently, I'm a Junior Student pursuing a Bachelor’s in E-Commerce at UEH Uni
 - 🌱 **Learning Path**: Aspiring Software Engineer
 - ⚡ **Background**: Born in a small village in northern Vietnam (Thai Binh), now studying in Ho Chi Minh City.
 
-## Skills & Technologies 🛠️
+## Education 📚
+- **Degree**: Bachelor’s in Electronic Commerce
+- **University**: UEH University
+- **Expected Graduation**: December 2024
 
-### Languages
+## Skills 🛠️
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,csharp" alt="HTML, CSS, JavaScript, C#" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,csharp,react,express,dotnet" alt="HTML, CSS, JavaScript, C#, ReactJS, Express, .NET" />
 </p>
 
-### Frameworks
+## Projects 🛠️
+### EcoMove
+- **Award**: Grand Winner & 1st Prize in the Social Responsibility challenge project @ AngelHack HCMC '24
+- **Role**: Mobile Developer
+  - Developed mobile application and integrate with backend within 24 hours
+- **Description**: Community-driven mobile app designed to turn everyday actions into environmental impact, fostering a collaborative effort for a greener planet.
+- **Technologies Used**:
 <p>
-  <img src="https://skillicons.dev/icons?i=react,express,dotnet" alt="ReactJS, Express, .NET" />
+  <img src="https://skillicons.dev/icons?i=react,express,mongodb,python,aws" alt="React Native, Express, MongoDB, Python, AWS" />
 </p>
 
 ## Collaboration 💞
