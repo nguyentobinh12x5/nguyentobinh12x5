@@ -1,12 +1,15 @@
-- 👋 Hi, I’m Binh. Currently, I'm a Junior Student pursuing an ECommerce Bachelor at UEH University. 
-- 👀 I’m interested in Business and Technology
-- 🌱 I’m currently learning to become a Software Engineer
-- 🌱 Technology: HTML, CSS, Javascript, C#, ReactJS, Express, .NET 
-- 💞️ I’m looking to collaborate on building tech projects and learning together
-- 📫 Contact: nguyentobinh12@gmail.com 
-- ⚡ Born in a small village in the north of Vietnam, Thai Binh. But now studying in Ho Chi Minh City 
+👋 Hi, I’m Binh!
+Currently, I'm a Junior Student pursuing a Bachelor’s in E-Commerce at UEH University. I’m passionate about combining business and technology to create impactful solutions.
 
-<!---
-nguyentobinh12x5/nguyentobinh12x5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About Me ℹ️
+👀 Interests: Business & Technology
+🌱 Learning Path: Aspiring Software Engineer
+⚡ Background: Born in a small village in northern Vietnam (Thai Binh), now studying in Ho Chi Minh City.
+Skills & Technologies 🛠️
+Languages: HTML, CSS, JavaScript, C#
+Frameworks: ReactJS, Express, .NET
+Collaboration 💞
+I’m looking to collaborate on tech projects and grow together!
+
+Contact 📫
+Feel free to reach out: nguyentobinh12@gmail.com
