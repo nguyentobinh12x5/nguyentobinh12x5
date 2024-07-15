@@ -13,8 +13,8 @@ Currently, I'm a Junior Student pursuing a Bachelor’s in E-Commerce at UEH Uni
 - **Expected Graduation**: December 2024
 
 ## Skills 🛠️
-<div style="text-align: center;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,csharp,python,react,express,dotnet,mongodb,redux" alt="HTML, CSS, JavaScript, C#, ReactJS, Express, .NET, MongoDB" style="display: inline-block;" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs,python,react,express,dotnet,mongodb,redux,bootstrap,firebase,git" alt="HTML, CSS, JavaScript, C#, ReactJS, Express, .NET, MongoDB" style="display: inline-block;" />
 </div>
 
 ## Projects 🛠️
@@ -24,7 +24,7 @@ Currently, I'm a Junior Student pursuing a Bachelor’s in E-Commerce at UEH Uni
   - Developed mobile application and integrated with backend within 24 hours
 - **Description**: Community-driven mobile app designed to turn everyday actions into environmental impact, fostering a collaborative effort for a greener planet.
 - **Technologies Used**:
-<div style="text-align: center;">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=react,express,mongodb,python,aws" alt="React Native, Express, MongoDB, Python, AWS" />
 </div>
 
