@@ -13,20 +13,20 @@ Currently, I'm a Junior Student pursuing a Bachelor’s in E-Commerce at UEH Uni
 - **Expected Graduation**: December 2024
 
 ## Skills 🛠️
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,csharp,react,express,dotnet" alt="HTML, CSS, JavaScript, C#, ReactJS, Express, .NET" />
-</p>
+<div style="text-align: center;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,csharp,python,react,express,dotnet,mongodb,redux" alt="HTML, CSS, JavaScript, C#, ReactJS, Express, .NET, MongoDB" style="display: inline-block;" />
+</div>
 
 ## Projects 🛠️
 ### EcoMove
 - **Award**: Grand Winner & 1st Prize in the Social Responsibility challenge project @ AngelHack HCMC '24
 - **Role**: Mobile Developer
-  - Developed mobile application and integrate with backend within 24 hours
+  - Developed mobile application and integrated with backend within 24 hours
 - **Description**: Community-driven mobile app designed to turn everyday actions into environmental impact, fostering a collaborative effort for a greener planet.
 - **Technologies Used**:
-<p>
+<div style="text-align: center;">
   <img src="https://skillicons.dev/icons?i=react,express,mongodb,python,aws" alt="React Native, Express, MongoDB, Python, AWS" />
-</p>
+</div>
 
 ## Collaboration 💞
 I’m looking to collaborate on tech projects and grow together!
