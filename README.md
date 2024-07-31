@@ -1,6 +1,10 @@
 # 👋 Hi, I’m Binh!
 
-Currently, I'm a Junior Student pursuing a Bachelor’s in E-Commerce at UEH University. I’m passionate about combining business and technology to create impactful solutions.
+As a newly graduated Ecommerce with a focus on Software Engineering from UEH University, I have a strong enthusiasm for entrepreneurship, technology, and Environmental, Social, and Governance (ESG) principles.
+
+My passion lies in leveraging technology to address pollution and promote environmental sustainability. Constantly exploring innovative solutions to environmental challenges, I am eager to collaborate with like-minded professionals.
+
+If you share my interests in technology, ESG, and start-up ventures, I would be delighted to connect!
 
 ## About Me ℹ️
 - 👀 **Interests**: Business & Technology
