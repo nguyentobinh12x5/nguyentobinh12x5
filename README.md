@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Binh!
 
-As a newly graduated Ecommerce with a focus on Software Engineering from UEH University, I have a strong enthusiasm for entrepreneurship, technology, and Environmental, Social, and Governance (ESG) principles.
+As a newly graduated E-commerce with a focus on Software Engineering from UEH University, I have a strong enthusiasm for entrepreneurship, technology, and (ESG) principles.
 
-My passion lies in leveraging technology to address pollution and promote environmental sustainability. Constantly exploring innovative solutions to environmental challenges, I am eager to collaborate with like-minded professionals.
+My passion lies in leveraging technology to address business and pollution challenges and promote environmental sustainability. Constantly exploring innovative solutions to environmental challenges, I am eager to collaborate with like-minded professionals.
 
-If you share my interests in technology, ESG, and start-up ventures, I would be delighted to connect!
+I would be delighted to connect if you share my interests in technology, ESG, and start-up ventures!
 
 ## About Me ℹ️
 - 👀 **Interests**: Business & Technology
