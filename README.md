@@ -3,7 +3,7 @@
 ## About Me ℹ️
 - 👀 **Interests**: Business & Technology
 - 🌱 **Learning Path**: Software Engineer, Data Scientist
-- ⚡ **Background**: Born in a small village in northern Vietnam (Thai Binh), now studied Uni in Ho Chi Minh City. Now living in Singapore
+- ⚡ **Background**: Born in a small village in northern Vietnam (Thai Binh), Studied Uni in Ho Chi Minh City. Now living in Singapore
 
 ## Education 📚
 - **Degree**: Bachelor’s in Electronic Commerce, Studying Master of Data Science
