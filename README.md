@@ -1,35 +1,17 @@
 # 👋 Hi, I’m Binh!
 
-As a newly graduated E-commerce with a focus on Software Engineering from UEH University, I have a strong enthusiasm for entrepreneurship, technology, and (ESG) principles.
-
-My passion lies in leveraging technology to address business and pollution challenges and promote sustainability. Constantly exploring innovative solutions to business and environmental challenges, I am eager to collaborate with like-minded professionals.
-
-I would be delighted to connect if you share my interests in technology, business, ESG, and start-up ventures!
-
 ## About Me ℹ️
 - 👀 **Interests**: Business & Technology
-- 🌱 **Learning Path**: Aspiring Software Engineer
-- ⚡ **Background**: Born in a small village in northern Vietnam (Thai Binh), now studying in Ho Chi Minh City.
+- 🌱 **Learning Path**: Software Engineer, Data Scientist
+- ⚡ **Background**: Born in a small village in northern Vietnam (Thai Binh), now studied Uni in Ho Chi Minh City. Now living in Singapore
 
 ## Education 📚
-- **Degree**: Bachelor’s in Electronic Commerce
-- **University**: UEH University
-- **Expected Graduation**: December 2024
+- **Degree**: Bachelor’s in Electronic Commerce, Studying Master of Data Science
+- **University**: UEH University, Singapore University of Technology and Design
 
 ## Skills 🛠️
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cs,python,react,express,dotnet,mongodb,redux,bootstrap,firebase,git" alt="HTML, CSS, JavaScript, C#, ReactJS, Express, .NET, MongoDB" style="display: inline-block;" />
-</div>
-
-## Projects 🛠️
-### EcoMove
-- **Award**: Grand Winner & 1st Prize in the Social Responsibility challenge project @ AngelHack HCMC '24
-- **Role**: Mobile Developer
-  - Developed mobile application and integrated with backend within 24 hours
-- **Description**: Community-driven mobile app designed to turn everyday actions into environmental impact, fostering a collaborative effort for a greener planet.
-- **Technologies Used**:
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,express,mongodb,python,aws" alt="React Native, Express, MongoDB, Python, AWS" />
+  <img src="https://skillicons.dev/icons?i=html,css,ts,cs,python,react,dotnet" alt="HTML, CSS, JavaScript, C#, ReactJS" style="display: inline-block;" />
 </div>
 
 ## Collaboration 💞
